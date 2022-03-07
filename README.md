@@ -17,3 +17,4 @@ Codedrops (always includes source code)
   - Brain https://tympanus.net/Development/DistortedPixels/index3.html
   - Scroll with 3D shader page https://tympanus.net/Tutorials/ShadersOnScroll/
   - 3D Surface sampling https://tympanus.net/Tutorials/SurfaceSampling/index2.html
+  - 3D Earth with cities https://tympanus.net/codrops/2021/04/05/how-to-create-a-globe-and-add-cities-using-three-js/
