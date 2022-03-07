@@ -5,9 +5,11 @@
 Blogs
   - 3D character https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/
   - 3D Product landing page in react [Blog](https://www.takeshape.io/articles/create-a-3d-product-landing-page-with-threejs-and-react/) [Demo](https://3d-product-page.netlify.app/)
-- One page love (https://onepagelove.com/tag/three-js)
+  
+One page love (https://onepagelove.com/tag/three-js)
   - Timeline lading page [Demo](https://danny-garcia.com/?ref=onepagelove)
   - Amazing drawing page [Demo](https://noni.cmiscm.com/?ref=onepagelove)
-- Codedrops (always includes source code)
+
+Codedrops (always includes source code)
   - Brain https://tympanus.net/Development/DistortedPixels/index3.html
   - 
