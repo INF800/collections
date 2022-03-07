@@ -13,7 +13,7 @@ One page love (https://onepagelove.com/tag/three-js)
   - Timeline lading page [Demo](https://danny-garcia.com/?ref=onepagelove)
   - Amazing drawing page [Demo](https://noni.cmiscm.com/?ref=onepagelove)
 
-Codedrops (always includes source code)
+Codedrops (always includes source code https://tympanus.net/codrops/tag/three-js/page/3/)
   - Brain https://tympanus.net/Development/DistortedPixels/index3.html
   - Scroll with 3D shader page https://tympanus.net/Tutorials/ShadersOnScroll/
   - 3D Surface sampling https://tympanus.net/Tutorials/SurfaceSampling/index2.html
@@ -22,3 +22,5 @@ Codedrops (always includes source code)
   - 3D Lines https://tympanus.net/codrops/2020/12/14/coding-a-3d-lines-animation-with-three-js/
   - Catalogue to display different products/cards https://tympanus.net/Tutorials/WaveMotionEffect/
   - 3D Menu https://tympanus.net/Tutorials/PhysicsMenu/
+  - Race tracks https://tympanus.net/Tutorials/InfiniteLights/index3.html
+  - Image transition https://tympanus.net/Development/webGLImageTransitions/index.html
