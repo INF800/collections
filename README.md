@@ -5,6 +5,7 @@
 codepen / learn by examples:
   - https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g
   - space globe https://codepen.io/isladjan/pen/bGpjZwN
+  - rigging project https://github.com/gov-ai/3js-rigging-ik
 
 Blogs
   - 3D character https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/
