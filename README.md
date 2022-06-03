@@ -1,5 +1,10 @@
 # collections
 
+
+### R3F
+
+- intro, examples and resources: https://formidable.com/blog/2021/react-three-fiber/
+
 ### Three.JS
 
 codepen / learn by examples:
